@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553531222734",
+    "project_id": "classroom-finder-22cfb",
+    "storage_bucket": "classroom-finder-22cfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553531222734:android:d1cb5d97cb859c60743e9f",
+        "android_client_info": {
+          "package_name": "com.example.classroom_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx3Yi5UQt-_uzVIjQBRMQhBZ5QNKhvS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
